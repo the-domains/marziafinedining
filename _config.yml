@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: marziafinedining
 opengraph:
   image: null
   type: null
@@ -12,16 +9,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5967742
-  brandStrength: 0.4874552
+  brandStrength: 0
   lightness: 0.5
   brandColors:
     - '#FFFFFF'
@@ -35,6 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.75241
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-name: marziafinedining
+layout_spectrum: 0.2258064
