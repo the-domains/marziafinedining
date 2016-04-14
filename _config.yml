@@ -17,24 +17,24 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.2043011
+  saturation: 0.4910394
   brandStrength: 0.2508961
-  lightness: 0.327957
+  lightness: 0.530466
   brandColors:
     - '#FFFFFF'
     - '#E8C76E'
     - '#030202'
     - '#777777'
     - '#3A3938'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5143369
 typography_spectrum: 0.8799283
-layout_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+layout_spectrum: 0.7634408
