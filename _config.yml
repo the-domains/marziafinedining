@@ -1,6 +1,6 @@
 name: marziafinedining
 favicon: null
-layout_spectrum: 0.49422
+layout_spectrum: 0.23988
 typography_spectrum: 0.49615
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#f5b53b'
     - '#b77047'
     - '#cf8b64'
-  brandStrength: 0.5
-  lightness: 0.4375
-  saturation: 0.5625
-  rhythmicContrast: 1
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
