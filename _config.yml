@@ -1,8 +1,4 @@
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: marziafinedining
 opengraph:
   image: null
   type: null
@@ -32,9 +28,13 @@ color:
     - '#3A3938'
   rhythmicContrast: 0
 typography_spectrum: 0.8799283
+layout_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.2258064
-name: marziafinedining
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
