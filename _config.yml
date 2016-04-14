@@ -1,0 +1,28 @@
+name: marziafinedining
+favicon: null
+layout_spectrum: 0.491465502185747
+typography_spectrum: 0.041578377364203334
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5511021339334548
+  lightness: 0.3748048997949809
+  saturation: 0.8251062771305442
+  rhythmicContrast: 0.7238951623439789
+purpose: []
