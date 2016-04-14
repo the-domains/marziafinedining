@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-14T20:22:54.106Z'
-dateModified: '2016-04-14T20:22:46.540Z'
+datePublished: '2016-04-14T20:24:22.290Z'
+dateModified: '2016-04-14T20:24:16.826Z'
 author: []
 title: ' '
 sourcePath: _posts/2016-04-14-pizza-agli-asparagi-selvatici-e-miele.md
@@ -23,4 +23,5 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+PIZZA AGLI ASPARAGI SELVATICI E MIELE
 ![](http://www.marziabalza.com/wp-content/uploads/2016/04/pizza_asparagi_02.jpg)
