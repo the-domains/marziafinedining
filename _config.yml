@@ -33,7 +33,7 @@ color:
     - '#87919A'
     - '#E9BD03'
     - '#01050E'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.75
