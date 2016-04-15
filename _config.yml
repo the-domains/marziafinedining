@@ -1,3 +1,4 @@
+favicon: null
 name: marziafinedining
 opengraph:
   image: null
@@ -9,25 +10,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.4910394
-  brandStrength: 0.2508961
-  lightness: 0.530466
+  saturation: 0.3691756
+  brandStrength: 0.702509
+  lightness: 0.4784946
   brandColors:
-    - '#FFFFFF'
-    - '#E8C76E'
-    - '#030202'
-    - '#777777'
-    - '#3A3938'
-  rhythmicContrast: 0.5143369
-typography_spectrum: 0.8799283
+    - '#EBF0FA'
+    - '#C6875C'
+    - '#87919A'
+    - '#E9BD03'
+    - '#01050E'
+  rhythmicContrast: 0.6397849
+typography_spectrum: 0.7329749
 cta:
   bucket: null
   version: null
@@ -36,5 +37,4 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 0.7634408
+layout_spectrum: 0.5053763
