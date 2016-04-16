@@ -1,6 +1,6 @@
 name: marziafinedining
 favicon: null
-layout_spectrum: 0.63102
+layout_spectrum: 0.75241
 typography_spectrum: 1
 collections:
   - index:
@@ -33,8 +33,8 @@ color:
     - '#87919A'
     - '#E9BD03'
     - '#01050E'
-  brandStrength: 0.5
+  brandStrength: 0.3125
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 purpose: []
