@@ -1,4 +1,5 @@
-name: marziafinedining
+favicon: null
+layout_spectrum: 0.5645161
 opengraph:
   image: null
   type: null
@@ -18,7 +19,7 @@ collections:
 purpose: []
 color:
   saturation: 1
-  brandStrength: 0.4946237
+  brandStrength: 0.1989247
   lightness: 0.5
   brandColors:
     - '#D5DEE5'
@@ -32,9 +33,8 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.5645161
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
+name: marziafinedining
