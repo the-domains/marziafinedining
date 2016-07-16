@@ -1,9 +1,7 @@
+name: marziafinedining
 favicon: null
 layout_spectrum: 0.5645161
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.5250896
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.1989247
-  lightness: 0.5
   brandColors:
     - '#D5DEE5'
     - '#6B3E07'
     - '#9EA7AE'
     - '#000B01'
     - '#74829C'
+  brandStrength: 0.1989247
+  lightness: 0.5
+  saturation: 1
   rhythmicContrast: 0.25
-typography_spectrum: 0.5250896
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: marziafinedining
+purpose: []
