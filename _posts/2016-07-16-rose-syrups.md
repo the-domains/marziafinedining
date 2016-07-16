@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-16T19:56:01.669Z'
-dateModified: '2016-07-16T19:54:59.112Z'
+datePublished: '2016-07-16T20:00:01.178Z'
+dateModified: '2016-07-16T19:57:57.444Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-16-rose-syrups.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-07-16-rose-syrups.md
+starred: true
 url: rose-syrups/index.html
 _type: Article
 
